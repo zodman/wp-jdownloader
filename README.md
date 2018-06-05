@@ -4,7 +4,7 @@
 </p>
 
 
-## jDownloader ShortCurt for click'N'load
+## jDownloader shortcode for click'N'load
 
 ![demo](https://i.imgur.com/K6MGtSp.png)
 
