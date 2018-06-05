@@ -1,8 +1,5 @@
-<center>
+![imagelogo](https://i.imgur.com/tsIZIdc.png)
 
-	![imagelogo](https://i.imgur.com/tsIZIdc.png)
-	
-</center>
 
 
 ## jDownloader ShortCurt for click'N'load
