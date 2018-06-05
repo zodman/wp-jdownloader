@@ -1,5 +1,7 @@
-![imagelogo](https://i.imgur.com/tsIZIdc.png)
 
+<p align="center">
+  <img src="https://i.imgur.com/tsIZIdc.png"/>
+</p>
 
 
 ## jDownloader ShortCurt for click'N'load
